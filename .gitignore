@@ -1,0 +1,6 @@
+/opt
+!/opt/.placeholder
+/srv
+!/srv/install.sh
+!/srv/start.sh
+
